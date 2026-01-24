@@ -8,6 +8,8 @@ Currently im an IT Support Specialist who keeps users productive and technology 
 **[Active Directory VM Lab](https://github.com/sammathaadams/active-directory-vm-lab)**  
 Built a virtual Windows Server domain to practice user and group management, domain configuration, and security policies in a realistic lab environment.
 
+**[ServiceNow & Active Directory: Manual Password Reset Simulation](https://github.com/sammathaadams/ServiceNow-PW-reset-Lab)**
+This lab utilizes a ServiceNow Developer Instance to simulate a manual help desk workflow for user password resets integrated with Active Directory. It demonstrates the ability to manage the end-to-end incident lifecycle, from initial request to secure account verification and resolution in a controlled environment.
 ---
 
 ### 🛠 Core Skills  
