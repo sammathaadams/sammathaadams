@@ -9,16 +9,25 @@ Currently im an IT Support Specialist who keeps users productive and technology 
 Built a virtual Windows Server domain to practice user and group management, domain configuration, and security policies in a realistic lab environment.
 
 **[ServiceNow & Active Directory: Manual Password Reset Simulation](https://github.com/sammathaadams/ServiceNow-PW-reset-Lab)**
-This lab utilizes a ServiceNow Developer Instance to simulate a manual help desk workflow for user password resets integrated with Active Directory. It demonstrates the ability to manage the end-to-end incident lifecycle, from initial request to secure account verification and resolution in a controlled environment.
+This lab utilizes a ServiceNow Developer Instance to simulate a manual help desk workflow for user password resets integrated with Active Directory. It demonstrates the ability to manage the end-to-end incident lifecycle, from initial request to secure account verification and resolution in a controlled environment 
+
+**[ServiceNow & PowerShell: Incident Automation Lab](https://github.com/sammathaadams/SNOW-PowerShell-automation-lab)**
+Developed a technical automation lab demonstrating how to programmatically manage ServiceNow incidents using PowerShell and the Table API. This project covers secure REST API integration, JSON payload construction, and automated ticket creation workflows.
+
+
 ---
 
-### 🛠 Core Skills  
-- Technical troubleshooting  
-- Active Directory (user & access management)  
-- Windows system support  
-- Ticket handling with ServiceNow  
-- Basic AWS administration  
-- Customer-focused communication  
+## 🛠 Core Skills
+- Technical Troubleshooting
+- Active Directory
+- ITSM & ServiceNow
+- API & Workflow Automation
+- PowerShell Scripting
+- JSON Data Handling
+- Windows System Support
+- AWS Administration
+- Identity Verification Protocols
+- Incident Management 
 
 ---
 
