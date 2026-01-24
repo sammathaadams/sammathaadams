@@ -31,15 +31,17 @@ Developed a technical automation lab demonstrating how to programmatically manag
 
 ---
 
-### 📚 Currently Learning  
-- Cloud administration and automation  
-- Networking fundamentals  
-- Cybersecurity best practices  
+## 📚 Currently Learning
+- **Cloud Engineering:** Transitioning Active Directory workflows to **Microsoft Azure** (Entra ID) and cloud automation.
+- **Networking Fundamentals:** Focusing on TCP/IP, DNS, and virtual private networks (VPNs).
+- **Cybersecurity:** Implementing Zero Trust principles and secure identity management.
 
 ---
 
 ### 📫 Lets Connect
-- SammDion@gmail.com
+- **Email:** SammDion@gmail.com
+- **LinkedIn:** [Sammatha Adams](https://www.linkedin.com/in/sammatha-adams-746503152)
+- 
 
 ---
 
