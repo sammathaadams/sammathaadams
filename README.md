@@ -1,86 +1,118 @@
-# Hi — I’m Sammatha | Cloud Support & Automation Engineer in Progress ☁️
+# Hi — I’m Sammatha Adams | System Administration & Cloud Infrastructure
 
-I’m an IT Support professional transitioning into **Cloud Support and Cloud Operations**, combining hands-on troubleshooting experience with automation, identity management, and cloud infrastructure.
+IT professional with hands-on experience in **Windows Server administration, Active Directory Domain Services (AD DS), ServiceNow ITSM workflows, and PowerShell automation**.
 
-My background in ServiceNow, Active Directory, and PowerShell automation provides a strong foundation for supporting modern Azure and AWS environments. I’m actively building cloud deployment workflows using GitHub Actions, Azure CLI, and identity-driven infrastructure practices.
-
----
-
-## ☁️ Featured Cloud Engineering & Automation Projects
-
-### 🔹 Automated Azure Static Website Deployment
-
-* Designed and deployed an interactive static website using **Azure Blob Storage**
-* Implemented a **GitHub Actions CI/CD pipeline** for automated deployments
-* Used **Azure CLI** for resource management and deployment workflows
-* Integrated JavaScript to create a dynamic, interactive cloud-hosted portfolio
-* Demonstrates branch-based deployment workflows aligned with modern DevOps practices
-
-### 🔹 Active Directory VM Lab (AWS Cloud Identity Simulation)
-
-* Deployed and configured a Windows Server domain environment within **AWS**
-* Practiced identity and access management workflows including user/group provisioning and domain configuration
-* Simulated troubleshooting scenarios involving authentication, permissions, and security policies
-* Strengthened understanding of hybrid identity concepts bridging traditional Active Directory with cloud infrastructure
+My background combines production Helpdesk experience with lab-based infrastructure deployments in **Microsoft Azure and AWS**, focusing on identity management, Windows domain administration, and automation-driven system operations.
 
 ---
 
-## 🛠️ IT Automation & Support Engineering Labs
+## 🖥️ System Administration & Infrastructure Labs
 
-### ServiceNow & PowerShell — Incident Automation
+### 🔗 [Active Directory VM Lab — AWS](https://github.com/sammathaadams/active-directory-vm-lab-AWS-)
 
-Developed automation scripts using PowerShell and the ServiceNow Table API to programmatically manage incident workflows, demonstrating REST API integration and JSON payload handling.
+Deployed and configured a Windows Server domain controller in **AWS EC2**, implementing Active Directory Domain Services in a cloud-hosted lab environment.
 
-### ServiceNow & Active Directory — Password Reset Simulation
-
-Simulated real-world help desk workflows using a ServiceNow Developer Instance integrated with Active Directory to practice secure identity verification and incident resolution.
-
-### Active Directory PowerShell Automation
-
-Automated user account creation and administrative workflows using PowerShell to improve efficiency and reduce manual provisioning tasks.
-
----
-
-## ⚙️ Core Skills
-
-### Cloud & Automation
-
-* Microsoft Azure
-* Amazon Web Services (AWS)
-* Git & GitHub Workflows
-* Azure CLI
-* GitHub Actions (CI/CD)
-* PowerShell Scripting
-* API & Workflow Automation
-
-### Support & Identity
-
-* Technical Troubleshooting
-* Active Directory & Identity Management
-* ITSM & ServiceNow
-* Incident Management
-* Windows System Support
-* JSON Data Handling
+**Key Areas Practiced:**
+- AD DS installation and domain controller configuration
+- Organizational Unit (OU) creation and structure
+- User and group provisioning
+- Security group–based access control
+- Domain authentication and DNS configuration
+- Group Policy (GPO) configuration fundamentals
 
 ---
 
-## 📚 Currently Learning
+### 🔗 [AD PowerShell Automation Lab](https://github.com/sammathaadams/AD-PowerShell-automation-LAB-)
 
-* **Cloud Engineering:** Transitioning identity workflows to Microsoft Entra ID
-* **DevOps Fundamentals:** Building CI/CD pipelines using GitHub Actions and Azure CLI
-* **Networking Fundamentals:** TCP/IP, DNS, and Virtual Networks
-* **Cybersecurity:** Zero Trust principles and secure identity management
+Automated Active Directory administrative tasks using **PowerShell** within a Windows domain environment.
+
+**Automation Focus:**
+- Scripted user account creation
+- Group membership assignment
+- OU placement logic
+- Streamlined identity lifecycle workflows
+- Reduced manual provisioning steps through scripting
+
+---
+
+## ☁️ Cloud Infrastructure & Deployment Labs
+
+### 🔗 [Azure Static Website CI/CD](https://github.com/sammathaadams/azure-static-website-github-actions)
+
+Deployed a static website to **Azure Blob Storage** with automated deployment using **GitHub Actions** and **Azure CLI**.
+
+**Infrastructure Components:**
+- Azure resource configuration
+- Blob Storage hosting
+- CI/CD pipeline automation
+- Branch-based deployment workflow
+- Cloud-based portfolio hosting
+
+---
+
+## 🛠️ ITSM & Administrative Automation Labs
+
+### 🔗 [ServiceNow PowerShell Automation Lab](https://github.com/sammathaadams/SNOW-PowerShell-automation-lab)
+
+Integrated **PowerShell** with the ServiceNow REST Table API to simulate automated incident management workflows.
+
+**Technical Highlights:**
+- REST API authentication
+- JSON payload handling
+- Programmatic incident creation
+- ITSM workflow automation
+
+---
+
+### 🔗 [ServiceNow Password Reset Lab](https://github.com/sammathaadams/ServiceNow-PW-reset-Lab)
+
+Simulated help desk password reset workflows using a **ServiceNow Developer Instance** aligned with Active Directory identity processes.
+
+**Workflow Practice:**
+- Identity verification simulation
+- Password reset lifecycle handling
+- Incident documentation
+- Access restoration procedures
+
+---
+
+## ⚙️ Core Technical Areas
+
+### Systems Administration
+- Windows Server
+- Active Directory Domain Services (AD DS)
+- Group Policy (GPO)
+- User Lifecycle Management
+- DNS & Domain Troubleshooting
+- Identity & Access Management (IAM Concepts)
+
+### Cloud Platforms
+- Microsoft Azure (Virtual Machines, Blob Storage)
+- AWS EC2 (Windows Server Lab Environment)
+
+### Automation & Tools
+- PowerShell
+- Azure CLI
+- GitHub Actions (CI/CD)
+- ServiceNow
+- RDP / Remote Administration
+
+---
+
+## 📈 Current Focus
+
+- Expanding hybrid identity knowledge (On-Prem AD + Microsoft Entra ID)
+- Advanced Group Policy and security baseline configuration
+- Infrastructure automation within Azure environments
+- Strengthening cloud networking fundamentals (DNS, VNets, TCP/IP)
 
 ---
 
 ## 🎯 Career Direction
 
-I’m focused on transitioning from traditional IT Support into **Cloud Support and Cloud Operations roles**, where I can combine troubleshooting, automation, and identity-based infrastructure skills to support scalable cloud environments.
+Seeking a **System Administrator or Cloud Infrastructure Support role** where I can apply Windows domain administration, automation scripting, and cloud infrastructure knowledge in a production environment.
 
 ---
 
-## 🤝 Let’s Connect
-
-📧 Email: SammDion@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/sammatha-adams
-
+📧 SammDion@gmail.com  
+🔗 linkedin.com/in/sammatha-adams
