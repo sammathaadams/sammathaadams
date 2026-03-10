@@ -1,4 +1,4 @@
-# Hi — I’m Sammatha Adams | System Administration & Cloud Infrastructure
+# Hi — I’m Sammatha Adams | System Administration & Cloud Infrastructure & Support
 
 IT professional with hands-on experience in **Windows Server administration, Active Directory Domain Services (AD DS), ServiceNow ITSM workflows, and PowerShell automation**.
 
