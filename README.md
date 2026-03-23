@@ -6,7 +6,7 @@ My background combines production help desk experience with lab-based infrastruc
 
 ---
 
-## 🗂️ Lab Series: Azure Infrastructure with Terraform
+## 🗂️ Lab Series: Azure IaC with Terraform
 
 A two-part lab series building progressively from file server infrastructure to cloud access control — each lab building directly on the last.
 
